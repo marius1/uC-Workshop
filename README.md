@@ -1,5 +1,16 @@
 # uC-Workshop
-Code samples for the uC Workshop
+Code samples for the uC Workshop 
+
+List of what you need to start with these samples
+* Arduino Uno or compatible
+* 2 LEDSs with correct resistors
+* Button
+* LDR sensor
+* 10k resistor
+* Servo
+* HC-SR04 distance sensor
+* 5-10 wires
+* Mini breadboard
 
 ## 1.1 Blink
 A simple circuit to get a led blinking. Also known as the Hello World! of microcontroller programming.
